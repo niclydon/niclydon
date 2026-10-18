@@ -27,6 +27,11 @@ a knowledge graph, an MCP tool surface, and a fleet of specialized agent
 personas. Public snapshot edition, refreshed October 2026; the private
 system has moved well past it, and the repo documents how and why.
 
+**[Mosvera](https://github.com/niclydon/mosvera)** — a declarative aesthetic
+runtime: composable expression profiles, JSON Schemas, a TypeScript reference
+runtime, and an MCP server that compiles aesthetics into provider payloads.
+Apache-2.0, and public by design rather than by snapshot.
+
 **[looki-mcp](https://github.com/niclydon/looki-mcp)** — an MCP server for the
 Looki wearable camera, giving AI assistants access to moments, photos,
 highlights, and journal entries. Maintained and current.
