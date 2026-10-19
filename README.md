@@ -27,6 +27,11 @@ a knowledge graph, an MCP tool surface, and a fleet of specialized agent
 personas. Public snapshot edition, refreshed October 2026; the private
 system has moved well past it, and the repo documents how and why.
 
+**[Muster](https://github.com/niclydon/muster-public)** — cross-runtime agent
+coordination: a registry, declared conditions, and a typed message stream,
+served by one API that enforces identity, authority, and addressability.
+Public snapshot edition (Apache-2.0).
+
 **[Mosvera](https://github.com/niclydon/mosvera)** — a declarative aesthetic
 runtime: composable expression profiles, JSON Schemas, a TypeScript reference
 runtime, and an MCP server that compiles aesthetics into provider payloads.
